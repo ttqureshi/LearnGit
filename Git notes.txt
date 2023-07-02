@@ -1,4 +1,4 @@
-GIT COMMANDS:
+GIT COMMANDS AND NOTES:
 
 1. git config --global user.name "XYZ"	=> changes the name to XYZ
 2. git config --global user.email "abc@gmail.com"	=> changes the email to abc@gmail

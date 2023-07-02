@@ -10,4 +10,3 @@ while (flag):
     e = input("If you want to exit press \'e\'")
     if e=="e":
         flag = False
-    continue
