@@ -1,0 +1,21 @@
+GIT COMMANDS:
+
+1. git config --global user.name "XYZ"	=> changes the name to XYZ
+2. git config --global user.email "abc@gmail.com"	=> changes the email to abc@gmail
+3. git init	=> initializes an empty git repository
+4. git status	=> tells the status about the changes made in repository
+
+						 --------------------
+	git add<----- | working directory |
+		|				 --------------------
+		---------->	| 	  staging area    | -------> git commit
+						 --------------------						|
+						|      repository      | <-------------
+						 --------------------
+						 
+5. git add <file>... => adds the file to the staging area. Files in this area are referred to as TRACKED FILES and only the files which are in this area get committed 
+6. git commit -m "message of commit"	=> commits in the repository
+7. git log 	=> used to see the no. of previous commits
+
+
+
