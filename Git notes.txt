@@ -24,7 +24,14 @@ GIT COMMANDS AND NOTES:
 
 
 ==== GIT BRANCH ====
-git branch <branchName> 		=> creates a branch (branchName)
-git branch 		=> gives all the branches
-git checkout <branchName>		=> switches to <branchName> branch
-git chekcout -b <branchName> 		=> creates a branch <branchName> and switches to it as well.
+11. git branch <branchName> 		=> creates a branch (branchName)
+12. git branch 		=> gives all the branches
+13. git checkout <branchName>		=> switches to <branchName> branch
+14. git chekcout -b <branchName> 		=> creates a branch <branchName> and switches to it as well.
+
+
+
+///// Whatever changes are made in a branch, other branches remain unaware of these changes.
+
+
+15. git merge <branchName>		=> merges the current branch which we are in to the <branchName> branch
