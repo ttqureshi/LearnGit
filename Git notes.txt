@@ -17,8 +17,10 @@ GIT COMMANDS AND NOTES:
 6. git add .		=> all files get enter in the staging area
 7. git commit -m "message of commit"	=> commits in the repository
 8. git log 	=> used to see the no. of previous commits
-9. git checkout <hash_code> 	=> can go back to any of your changes
-10. git checkout master 			=> comes back to master i.e., the previous step gets undo
+9. git checkout <hash_code/branch_name> 	=> can go back to any of your changes. Basically this command helps to navigate across any of the branches.
+10. git checkout master 			=> returns to master branch
+
+
 
 
 
