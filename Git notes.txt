@@ -37,3 +37,9 @@ GIT COMMANDS AND NOTES:
 
 
 15. git merge <branchName>		=> merges the current branch which we are in to the <branchName> branch
+
+
+=========== GIT IGNORE ==========
+// Sometimes we don't want some files to enter Git echosystem and git shouldn't track them. In order to do that we put them in 'git ignore'.
+
+
