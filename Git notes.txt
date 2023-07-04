@@ -23,3 +23,8 @@ GIT COMMANDS AND NOTES:
 
 
 
+==== GIT BRANCH ====
+git branch <branchName> 		=> creates a branch (branchName)
+git branch 		=> gives all the branches
+git checkout <branchName>		=> switches to <branchName> branch
+git chekcout -b <branchName> 		=> creates a branch <branchName> and switches to it as well.
