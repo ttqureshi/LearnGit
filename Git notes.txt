@@ -41,5 +41,9 @@ GIT COMMANDS AND NOTES:
 
 =========== GIT IGNORE ==========
 // Sometimes we don't want some files to enter Git echosystem and git shouldn't track them. In order to do that we put them in 'git ignore'.
+// There are 2 ways to create gitignore file (1) Using Command: touch .gitignore (2) directly create file with the name .gitignore
+// Once .gitignore file is created you put in the names of the files or folders you don't want to be tracked by git ecosystem/github.
+
+
 
 
